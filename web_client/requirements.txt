@@ -1,0 +1,6 @@
+numpy==1.26.4
+flask==3.1.0
+annoy==1.17.3
+pandas==2.2.2
+transformers==4.49.0
+torch
